@@ -20,7 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
  
 <p align="center">
 <!-- 仓库状态统计 https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GitHub-LP&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=GitHub-LP&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github" />
 <!-- 连续贡献数据记录 https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=GitHub-LP&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
