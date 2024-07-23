@@ -1,6 +1,5 @@
 ## Hi there 👋
-<!--主页访问量 -->
- ![Visitor Count](https://profile-counter.glitch.me/GitHub-LP/count.svg)
+
 <!--
 一些常用的标签设计网址
 https://dev.to/envoy_/150-badges-for-github-pnk
@@ -32,7 +31,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <br/>
 
 <!--代码编写总时长（WakaTime） https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GitHub-LP&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AiENG_07&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <!--项目语言比例 https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-LP&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
@@ -57,6 +56,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <img src="https://komarev.com/ghpvc/?username=GitHub-LP&abbreviated=true&color=yellow" />
 </p>
 
+<!--主页访问量 -->
+<p align="center">
+<img src="https://profile-counter.glitch.me/GitHub-LP/count.svg">
+</p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
